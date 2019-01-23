@@ -1,4 +1,4 @@
-TypeScript Node Fs Promiese Check File Exists Demo
+TypeScript Node Fs Promises Check File Exists Demo
 ==================================================
 
 ```
