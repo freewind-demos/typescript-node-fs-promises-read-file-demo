@@ -1,5 +1,5 @@
-TypeScript Node Fs Promises Check File Exists Demo
-==================================================
+TypeScript Node Fs Promises Read File Demo
+==========================================
 
 ```
 npm install
